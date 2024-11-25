@@ -25,7 +25,8 @@ Juridico
   - Poder Legislativo -> Representa a Sociedade
   - Poder Executivo -> Necessidade da Sociedade
 
-- Todo mundo é subordinado ao estado
 
-- Os contratos são feitos para não ler.
+Todo mundo é subordinado ao estado
+
+Os contratos são feitos para não ler.
 
