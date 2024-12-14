@@ -32,6 +32,7 @@ Os contratos são feitos para não ler.
 
 
 <!--- gina.gouveia@UFPE.br -->
+--------------------------------------------------------------
 
 Estado -> Bem comum
   *Supremacia do Interece publico sobre o particular
@@ -48,3 +49,5 @@ Sociedade
     - Meio Ambiente
    
 Organização do estado Brasileiro
+
+<img src=".assets/img01.jpg">
