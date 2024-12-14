@@ -31,4 +31,20 @@ Todo mundo é subordinado ao estado
 Os contratos são feitos para não ler.
 
 
-<!--- gina.gouveia@UFPE.br--!>
+<!--- gina.gouveia@UFPE.br -->
+
+Estado -> Bem comum
+  *Supremacia do Interece publico sobre o particular
+
+Justiça -> É um sentimento
+
+LEI
+
+Sociedade
+  - Direito
+    - Liberdade
+    - Garantia
+    - Dignidade
+    - Meio Ambiente
+   
+Organização do estado Brasileiro
