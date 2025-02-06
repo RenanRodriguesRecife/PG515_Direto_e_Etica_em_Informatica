@@ -97,3 +97,18 @@ De outro, denota um tipo de elemento dessa constelação: as soluções
 concretas de quebra-cabeças que, empregadas como modelos ou
 exemplos,
 
+
+
+
+
+Durante as revoluções científicas, novas descobertas e avanços resultam em contribuições significativas, como novas técnicas e tecnologias.
+Os termos "técnica" e "tecnologia" vêm da palavra grega "techne", que significa o conjunto de conhecimentos sobre uma prática produtiva.
+Heidegger (2007) define a técnica como uma atividade humana, sendo um meio para alcançar um fim, uma manifestação da vontade humana livre.
+Ele distingue entre técnica instrumental (fazer as coisas) e técnica antropológica (atividade humana), convidando a uma compreensão mais profunda da instrumentalidade da técnica à luz da causalidade.
+Heidegger usa o exemplo do cálice de prata para explicar as quatro causas (material, forma, fim e efeito) envolvidas na criação de um objeto.
+A relação entre essas causas não é completamente explicada pela causalidade tradicional, e o ourives é visto como responsável pela criação do cálice, sendo o ponto de partida para sua existência.
+Heidegger faz uma distinção entre "poeisis" (geração) e "physis" (produção na natureza), considerando ambas formas de gerar algo que não existia.
+"Poeisis" é associada à revelação e à verdade (aletheia), sugerindo que a técnica é uma forma de revelar o mundo, semelhante à poesia.
+A palavra "techne" é ligada à episteme (conhecimento), com "techne" referindo-se à intervenção do homem na natureza, enquanto "episteme" se relaciona ao conhecimento da própria natureza.
+Heidegger argumenta que o essencial na "techne" não está no fazer, manipular ou uso de meios, mas na revelação do que não se apresenta.
+
