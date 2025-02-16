@@ -112,3 +112,25 @@ Heidegger faz uma distinção entre "poeisis" (geração) e "physis" (produção
 A palavra "techne" é ligada à episteme (conhecimento), com "techne" referindo-se à intervenção do homem na natureza, enquanto "episteme" se relaciona ao conhecimento da própria natureza.
 Heidegger argumenta que o essencial na "techne" não está no fazer, manipular ou uso de meios, mas na revelação do que não se apresenta.
 
+
+
+
+
+----------------------------------------
+
+- Conceito de estado
+- elementos do estado
+- Finalidade do estado
+- justiça/bem comum
+- separação das funções do estado com a lei a a ética
+- aspectos juridos esposição de dados pessoais na internet e sua relação com o direito fundamental
+
+--------------
+
+<img src=".assets/img02.jpg">
+
+- A construção da idéia de justiça apartir do estado
+- Ética: Conceito, sentido, relação com a sociedade
+- Estado: Papel do estado na responsabilidade ética/moral
+              
+
