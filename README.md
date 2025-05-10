@@ -133,4 +133,29 @@ Heidegger argumenta que o essencial na "techne" não está no fazer, manipular o
 - Ética: Conceito, sentido, relação com a sociedade
 - Estado: Papel do estado na responsabilidade ética/moral
               
+----------------------------------
 
+Estrutura da Lei
+
+Parte Preliminares
+
+- Identificação:
+ O título ou epígrafe da lei, geralmente indicando o número e o ano de publicação.
+- Ementa
+Resumo do conteúdo da lei.
+- Preâmbulo (Opcional)
+(Opcional) Contextualiza a lei, explicando os motivos e os objetivos da sua criação.
+
+
+Parte normativa:
+
+- Artigo (cebeçalho)
+A unidade básica de articulação da lei, que contém a norma jurídica.
+- Inciso
+Subdivisões dos artigos ou parágrafos, frequentemente utilizadas para listar diferentes casos ou situações em que a norma se aplica
+- Paragrafo
+Podem ser usados para detalhar ou modificar um artigo, ou mesmo quando o artigo é único, sendo então chamado de "Parágrafo único"
+- Alínha
+Subdivisões dos incisos, que podem detalhar ainda mais os casos ou situações
+- Item
+Subdivisões das alíneas, usadas para listar pontos específicos dentro de um quadro mais amplo. 
