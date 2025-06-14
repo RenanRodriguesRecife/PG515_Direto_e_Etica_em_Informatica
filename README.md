@@ -6,6 +6,22 @@ Data:
 10/04 - SEGUNDA CHAMADA
 11/04 - FINAL
 
+
+--------------------------
+O direito é uma ideia que surge a partir das relações humanas e traz consigo as necessidades do que é sentido. Nessa concepção, as estruturas de poder da sociedade utilizaram a escrita para expressar o direito, tornando-o, assim, normas impostas na regulamentação da vida em sociedade. Diante disso, surgem os conjuntos normativos aplicados àqueles que habitam um determinado território.
+
+Outro instrumento pensado pela racionalidade humana foi o Estado, que surge na Idade Moderna com a Constituição dos Estados Unidos, em 1787, cuja função é garantir o bem comum, rompendo com as monarquias absolutistas da Idade Média, visto que suas atividades e funções estão limitadas por um conjunto normativo supremo chamado Constituição.
+
+O Estado possui três funções: legislar, julgar e administrar. Para isso, foram criados o Poder Legislativo, o Poder Executivo e o Poder Judiciário. É importante frisar que não há superioridade de um em relação ao outro; contudo, eles se auto-fiscalizam para que não haja usurpação de poderes ou invasão de competências entre si.
+
+
+
+
+
+
+------------------
+
+
 Expressão:
 - Amicus curiae (amigo da corte) é uma expressão latina utilizada para designar o terceiro que ingressa no processo com a função de fornecer subsídios ao órgão julgador
 
