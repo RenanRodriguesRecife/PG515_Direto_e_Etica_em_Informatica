@@ -195,8 +195,11 @@ Fundamentos:
 - Livre iniciativa, livre concorrencia, defesa do consumidor
 - Direitos humanos, Livre desenvolvimento da personalidade, a dignidade e exercício da cidadania pelas pessoas naturais.
 
+Um dos principais pontos da lei é o empoderamento do usuário em relação ao uso dos seus dados, pois é necessário o consentimento prévio. No momento da coleta de dados pessoais, deve-se buscar o consentimento do usuário e informar claramente a finalidade do uso. Se isso não for feito, pode ser aplicada uma penalidade (multa). Além disso, o usuário tem o direito de suspender o uso dos dados fornecidos quando julgar conveniente. Por exemplo: a rede social deve oferecer a opção ao usuário de excluir sua conta e todos os dados gerados durante o período de atividade
 
+A pessoa tem o direito de saber onde está armazenado os seus dados, assim como acessa-los ou deleta-los. (pelo princípio da auto determinação informativa)
 
+- A LGPD estimula uma série de obrigações para empresas e organizações. Sobre coleta, armazenamento, tratamento e compartilhamento de dados pessoais, tanto online como offline (exemplo: ficha de cadastro, tanto digitais como em papel)
 
 
 
