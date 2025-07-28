@@ -175,3 +175,24 @@ Podem ser usados para detalhar ou modificar um artigo, ou mesmo quando o artigo 
 Subdivisões dos incisos, que podem detalhar ainda mais os casos ou situações
 - Item
 Subdivisões das alíneas, usadas para listar pontos específicos dentro de um quadro mais amplo. 
+
+---------------------------------
+
+LGPD - Lei geral de proteção de dados pessoais (Lei 13709/2018)
+
+Art. 1º Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural
+
+OBS: A LGPD não protege os dados de pessoas jurídicas. A proteção da LGPD é exclusiva para dados pessoais de pessoas físicas. Protege os dados da pessoas físicas que as pessoas juridicas possuem. Objetivo é de protejer os direitos fundamentais de liberdade e privacidade e o livre desenvolvimento da personalidade da pessoa natural.
+
+
+
+
+
+
+
+
+
+
+
+
+
