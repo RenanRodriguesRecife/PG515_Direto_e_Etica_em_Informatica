@@ -184,9 +184,16 @@ Art. 1º Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos me
 
 OBS: A LGPD não protege os dados de pessoas jurídicas. A proteção da LGPD é exclusiva para dados pessoais de pessoas físicas. Protege os dados da pessoas físicas que as pessoas juridicas possuem. Objetivo é de protejer os direitos fundamentais de liberdade e privacidade e o livre desenvolvimento da personalidade da pessoa natural.
 
+A LGPD funciona de forma semelhante a lei européia de proteção de dados 
 
-
-
+Fundamentos:
+- Repeito a privacidade
+- a autodeterminação informativa (o usuário pode controlar o uso dos seus dados pessoais)
+- Liberdade de expressão, de informação, de comunicação e de opinião;
+- Inviabilidade da intimidade, da honra e da imagem
+- Desenvolvimento economico e tecnológico e a inovação
+- Livre iniciativa, livre concorrencia, defesa do consumidor
+- Direitos humanos, Livre desenvolvimento da personalidade, a dignidade e exercício da cidadania pelas pessoas naturais.
 
 
 
